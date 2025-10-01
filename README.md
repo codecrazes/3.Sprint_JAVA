@@ -63,3 +63,5 @@ mvn spring-boot:run
 🌐 Acessar no navegador:
 
 http://localhost:8080
+
+![Spring Initializr com dependências](Motohub_3s.png)
